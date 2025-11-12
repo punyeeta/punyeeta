@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>🌱 I’m currently learning Java.<br>📫 How to reach me locsin.roxanne235@gmail.com
+🔭 I’m currently working on my skills.<br>🌱 I’m currently learning.<br>📫 How to reach me locsin.roxanne235@gmail.com
 
 
 ## 🌐 Socials:
