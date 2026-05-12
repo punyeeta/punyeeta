@@ -14,9 +14,3 @@ I’m currently working on my skills.<br>I’m looking for help to look for an i
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=punyeeta&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=punyeeta&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=punyeeta&icon=0&color=5)](https://visitcount.itsvg.in)
